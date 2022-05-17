@@ -1,0 +1,10 @@
+Connectors/GetPlaceInformation.java
+ Connectors.GetPlaceInformation
+Parsers/Parser.java
+ Parsers.Parser
+Classes/Locations.java
+ Classes.Locations
+Main.java
+ Main
+TelegramBot.java
+ TelegramBot
